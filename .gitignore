@@ -1,0 +1,12 @@
+
+*.rar
+.DS_Store
+*/.DS_Store
+Thumbs.db
+*/Thumbs.db
+
+# Intellij
+.idea/
+*/.idea/
+*.iml
+*/*.iml
